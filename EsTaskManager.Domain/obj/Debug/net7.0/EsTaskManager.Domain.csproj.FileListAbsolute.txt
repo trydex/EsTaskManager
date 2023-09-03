@@ -1,0 +1,12 @@
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\bin\Debug\net7.0\EsTaskManager.Domain.deps.json
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\bin\Debug\net7.0\EsTaskManager.Domain.dll
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\bin\Debug\net7.0\EsTaskManager.Domain.pdb
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\obj\Debug\net7.0\EsTaskManager.Domain.csproj.AssemblyReference.cache
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\obj\Debug\net7.0\EsTaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\obj\Debug\net7.0\EsTaskManager.Domain.AssemblyInfoInputs.cache
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\obj\Debug\net7.0\EsTaskManager.Domain.AssemblyInfo.cs
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\obj\Debug\net7.0\EsTaskManager.Domain.csproj.CoreCompileInputs.cache
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\obj\Debug\net7.0\EsTaskManager.Domain.dll
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\obj\Debug\net7.0\refint\EsTaskManager.Domain.dll
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\obj\Debug\net7.0\EsTaskManager.Domain.pdb
+E:\Repos\EventSourcingTest\EsTaskManager.Domain\obj\Debug\net7.0\ref\EsTaskManager.Domain.dll

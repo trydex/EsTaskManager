@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Repos\\EventSourcingTest\\EsTaskManager.Api\\EsTaskManager.Api.csproj": {}
+  },
+  "projects": {
+    "E:\\Repos\\EventSourcingTest\\EsTaskManager.Api\\EsTaskManager.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Api\\EsTaskManager.Api.csproj",
+        "projectName": "EsTaskManager.Api",
+        "projectPath": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Api\\EsTaskManager.Api.csproj",
+        "packagesPath": "C:\\Users\\trydex\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trydex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.307\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Repos\\EventSourcingTest\\EsTaskManager.Domain\\EsTaskManager.Domain.csproj": {
+                "projectPath": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Domain\\EsTaskManager.Domain.csproj"
+              },
+              "E:\\Repos\\EventSourcingTest\\EsTaskManager.Infrastructure\\EsTaskManager.Infrastructure.csproj": {
+                "projectPath": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Infrastructure\\EsTaskManager.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Repos\\EventSourcingTest\\EsTaskManager.Domain\\EsTaskManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Domain\\EsTaskManager.Domain.csproj",
+        "projectName": "EsTaskManager.Domain",
+        "projectPath": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Domain\\EsTaskManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\trydex\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trydex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Repos\\EventSourcingTest\\EsTaskManager.Infrastructure\\EsTaskManager.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Infrastructure\\EsTaskManager.Infrastructure.csproj",
+        "projectName": "EsTaskManager.Infrastructure",
+        "projectPath": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Infrastructure\\EsTaskManager.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\trydex\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trydex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Repos\\EventSourcingTest\\EsTaskManager.Domain\\EsTaskManager.Domain.csproj": {
+                "projectPath": "E:\\Repos\\EventSourcingTest\\EsTaskManager.Domain\\EsTaskManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\bin\Debug\net7.0\EsTaskManager.Infrastructure.deps.json
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\bin\Debug\net7.0\EsTaskManager.Infrastructure.dll
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\bin\Debug\net7.0\EsTaskManager.Infrastructure.pdb
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\bin\Debug\net7.0\EsTaskManager.Domain.dll
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\bin\Debug\net7.0\EsTaskManager.Domain.pdb
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\obj\Debug\net7.0\EsTaskManager.Infrastructure.csproj.AssemblyReference.cache
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\obj\Debug\net7.0\EsTaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\obj\Debug\net7.0\EsTaskManager.Infrastructure.AssemblyInfoInputs.cache
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\obj\Debug\net7.0\EsTaskManager.Infrastructure.AssemblyInfo.cs
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\obj\Debug\net7.0\EsTaskManager.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\obj\Debug\net7.0\EsTaskManager.Infrastructure.csproj.CopyComplete
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\obj\Debug\net7.0\EsTaskManager.Infrastructure.dll
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\obj\Debug\net7.0\refint\EsTaskManager.Infrastructure.dll
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\obj\Debug\net7.0\EsTaskManager.Infrastructure.pdb
+E:\Repos\EventSourcingTest\EsTaskManager.Infrastructure\obj\Debug\net7.0\ref\EsTaskManager.Infrastructure.dll

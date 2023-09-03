@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jXgnSgw86mFOsPVltPsU3bLLQKaXiF5ZP3NtLfTn8Oo=",
+  "Source": "EsTaskManager.Api",
+  "BasePath": "_content/EsTaskManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
